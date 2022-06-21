@@ -40,9 +40,10 @@ udiv {
   background-color: lightgrey;
   width: 500px;
   border: 15px;
-  padding:  90px;
-  margin:  50px;
-  
-  
-
+  padding: 200px;
+  margin: 50px;
+}
+img {
+ width: 100%;
+ height: auto;
 }
